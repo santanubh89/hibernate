@@ -1,0 +1,6 @@
+<ehcache>
+    <cache name="com.java.hibernate.entity.Employee"
+           maxEntriesLocalHeap="1000"
+           timeToIdleSeconds="300"
+           timeToLiveSeconds="600"/>
+</ehcache>
